@@ -1,0 +1,31 @@
+.parent{
+    height: 200px;
+    width: 200px;
+    margin: 10px auto;
+    
+}
+
+.div1{
+    height: 200px;
+    width: 200px;
+    padding: 3px;
+    border: 20px solid black;
+    margin-bottom:50px ;
+    background-color: green;
+}
+.div2{
+    height: 200px;
+    width: 200px;
+    padding: 3px;
+    border: 20px red inset;
+    margin-bottom: 5px;
+    background-color: blue;
+}
+.div3{
+    height: 200px;
+    width: 200px;
+    padding: 3px;
+    border: 20px groove  purple;
+    margin-bottom: 250px;
+    background-color: yellow;
+}
